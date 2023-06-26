@@ -7,7 +7,7 @@ To start type in serHelp.
 All Commands:
 ```
 info = Shows info of application
-serPorts = Shows which port is FREESHELL4SERIAL connected to and the baud rate
+serPorts = Shows which port is SerialKyller connected to and the baud rate
 serWrite = Sends an integer to the connected port
 serMonitor = Displays what the serial device is sending in string format
 serOff = Disconnects the serial port
